@@ -1,3 +1,3 @@
-print('Hello Git')
+print("Hello Git")
 
-print('Learnign Git is fun')
+print("Learnign Git is fun")
