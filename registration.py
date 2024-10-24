@@ -3,3 +3,5 @@ def registration():
 
 
 print("Learning how to use stash")
+
+print("Creating Some new features")
